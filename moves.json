@@ -1,0 +1,23 @@
+{
+  "Beauty Roll": {
+    Level: [2],
+    Pain: [1],
+    Dynamic: True,
+  },
+  "Birdie": {
+    Level: [2],
+    Pain: [1],
+    Dynamic: False
+  },
+  "Delilah": {
+    Level: [1],
+    Pain: [1],
+    Dynamic: False,
+    Variations: ["Delilah Top"]
+  },
+  "Delilah Top": {
+    Level: [2],
+    Pain: [2],
+    Variations: ["Delilah"]
+  }
+}
