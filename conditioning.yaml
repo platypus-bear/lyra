@@ -2,18 +2,40 @@ hocks_hang:
   name: "Hocks Hang"
   description: "Hang from your knees on the bar, head down. Engage your calves."
   level: [1]
-  no_seconds: [10]
   dynamic: False
+  no_seconds: [10]
+  
+hocks_swing:
+  name: "Hocks Swing"
+  description: "Enter a hocks position on the lower bar. Swing your arms behind you then around and through the hoop."
+  level: [2]
+  dynamic: True
+  reps: [5]
+  
 one_legged_hocks:
   name: "One Legged Hocks"
-  description: "From a hocks position, engage one leg, and straighten the other. Try not to shift the hips in this position"
+  description: "From a hocks position, engage one leg, and straighten the other. Try not to shift the hips in this position."
   level: [2]
-  no_seconds: [10]
   dynamic: False
+  no_seconds: [10]
+  
 one_legged_hocks_shift:
   name: "One Legged Hocks Shift"
-  description: "Enter a one legged hocks, and then only using your legs, shift your straight leg behind you"
+  description: "Enter a one legged hocks, and then only using your legs, shift your straight leg behind you."
   level: [3]
-  reps: [5]
   dynamic: True
+  reps: [5]
+
+shoulder_shrug:
+  name: "Shoulder Shrug"
+  description: "While hanging from the top bar, move your shoulders between extended and engaged positions."
+  level: [3]
+  dynamic: True
+  reps: [5]
   
+skin_the_cat:
+  name: "Skin the Cat"
+  description: "While hanging in a ball under the bar, shift your weight backwards and forwards such that you rotate slightly, but not so much that you cannot come back. It helps to have a spotter for this one that can help you come back to the center position."
+  level: [3]
+  dynamic: True
+  reps: [5]
