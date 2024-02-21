@@ -1,0 +1,19 @@
+hocksHang:
+  name: "Hocks Hang"
+  description: "Hang from your knees on the bar, head down. Engage your calves."
+  level: [1]
+  no_seconds: [10]
+  dynamic: False
+oneLeggedHocks:
+  name: "One Legged Hocks"
+  description: "From a hocks position, engage one leg, and straighten the other. Try not to shift the hips in this position"
+  level: [2]
+  no_seconds: [10]
+  dynamic: False
+oneLeggedHocksShift:
+  name: "One Legged Hocks Shift"
+  description: "Enter a one legged hocks, and then only using your legs, shift your straight leg behind you"
+  level: [3]
+  reps: [5]
+  dynamic: True
+  
