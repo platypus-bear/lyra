@@ -1,0 +1,25 @@
+beauty_roll:
+  name: "Beauty Roll"
+  level: [2]
+  pain: [1]
+  dynamic: True
+
+birdie: 
+  name: "Birdie"
+  level: [2]
+  pain: [1]
+  dynamic: False
+
+delilah:
+  name: "Delilah"
+  level: [1]
+  pain: [1]
+  dynamic: False
+  variations: ["delilah_top"]
+
+delilah_top:
+  name: "Delilah Top"
+  level: [2]
+  pain: [2]
+  variations: ["delilah"]
+
