@@ -3,7 +3,11 @@ beauty_roll:
   level: [2]
   pain: [1]
   dynamic: True
-  inspired_by: ["https://www.instagram.com/p/C3fwq0ag4F4/"]
+  inspired_by: [
+    name: "Kelly G"
+    profile_url: https://www.instagram.com/k_james/
+    video_url: https://www.instagram.com/p/C3fwq0ag4F4/
+  ]
 
 birdie: 
   name: "Birdie"
